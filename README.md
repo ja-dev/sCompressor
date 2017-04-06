@@ -18,7 +18,9 @@ with the smallest index value. Please count the starting location of a mismatch 
 (MSB) bit of the pattern – the position of the leftmost bit is 00000.
 
 **Each instruction is chosen from the best of the following:**
+
 ![alt tag](https://github.com/ja-dev/sCompressor/blob/master/03_Screenshots/02_Compression%20Techniques.jpg)
 
 **Compression/decompression:**
+
 ![alt tag](https://github.com/ja-dev/sCompressor/blob/master/03_Screenshots/01_Compression.jpg)
